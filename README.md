@@ -5,7 +5,7 @@ I have been working in the field of analysis for more than  <span style="color:d
 ### 🔭 Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| -------------------- | ------------------------------------------| -----------------------|
-| **Senior consultant** | [**Agency for stategic reforms**](https://sda.gov.uz/en) | **Studies for state reforms ** | **06.2022 - till now** |
+| **Senior consultant** | [**Agency for stategic reforms**](https://sda.gov.uz/en) | **Studies for state reforms** | **06.2022 - till now** |
 | **Data analyst** | [**KB Polis LTD**](https://kbpolis.ru/) | **Analysis of business indicators, metadata, economic indicators** | **06.2022 - till now** |
 | Analytics team lead | [Agency for strategic initiatives](https://asi.ru/eng/) | Data analysis, marketing analysis, sociological studies | 06.2019 - 05.2022 |
 | Analyst | [Strelka LTD](https://www.strelka-kb.com/researches) | Research analysis, product analysis | 05.2018 - 05.2019 |
