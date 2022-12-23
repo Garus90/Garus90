@@ -8,7 +8,7 @@ I have been working in the field of analysis for more than  <span style="color:d
 | **Senior consultant** | [**Agency for stategic reforms**](https://sda.gov.uz/en) | **Studies for state reforms** | **06.2022 - till now** |
 | **Data analyst** | [**KB Polis LTD**](https://kbpolis.ru/) | **Analysis of business indicators, metadata, economic indicators** | **06.2022 - till now** |
 | Analytics team lead | [Agency for strategic initiatives](https://asi.ru/eng/) | Data analysis, business analysis (familiar with **BPMN**) sociological studies, marketing analysis (used **CJM, NPS, CES,CSI, Service blueprint**) | 06.2019 - 05.2022 |
-| Analyst | [Strelka LTD](https://www.strelka-kb.com/researches) | Research analysis, product analysis | 05.2018 - 05.2019 |
+| Analyst | [Strelka LTD](https://www.strelka-kb.com/researches) | Research analysis, product analysis, spatial analysis, urban studies | 05.2018 - 05.2019 |
 | Middle analyst, project manager | [Department for the Development of New Territories of Moscow](https://www.mos.ru/drnt/) | Analysis of investment projects | 07.2016 - 06.2018 |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfullin-ruslan/).<br>
