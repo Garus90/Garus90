@@ -26,10 +26,10 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfulli
 
 ### 💬 Skills 
 - [Spatial analysis and urban studies](https://smarteka.com/people/profile/1965)
-- Analysis of business indicators and user behavior
-- Statistical analysis and A/B test results analysis (**t-test, z-test, mannwhitneyu**)
-- Marketing analysis and unit economy analysis (**Retention Rate, Conversion, LTV, CAC, ROI**)
-- Working with the database via SQL
+- Analysis of [business indicators](https://github.com/Garus90/creative_business_analysis)
+- Statistical analysis and [A/B test](https://github.com/Garus90/AB_test_for_e-store/blob/main/project_ab_test.ipynb) results analysis (**t-test, z-test, mannwhitneyu**)
+- Marketing analysis and unit economy [analysis](https://github.com/Garus90/mobileapp_marketing) (**Retention Rate, Conversion, LTV, CAC, ROI**)
+- Working with the database via [SQL](https://github.com/Garus90/sql_examples)
 - Preparation of presentations (**ppt, Adobe InDesign**)
 - [Public performances](https://www.youtube.com/watch?v=oOpcbYcAwNw&t=49s)
 - Holding strategic sessions
