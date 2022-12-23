@@ -11,7 +11,7 @@ I have been working in the field of analysis for more than  <span style="color:d
 | Analyst | [Strelka LTD](https://www.strelka-kb.com/researches) | Research analysis, product analysis | 05.2018 - 05.2019 |
 | Middle analyst, project manager | [Department for the Development of New Territories of Moscow](https://www.mos.ru/drnt/) | Analysis of investment projects | 07.2016 - 06.2018 |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfullin-ruslan-822412258/?locale=en_US).<br>
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfullin-ruslan/).<br>
 
 ### 🌱 Education 
 - [**Professional training course**](https://drive.google.com/file/d/1_fht7L792qUk5iuAFDTGAynHuwnrTrKl/view?usp=sharing) in Data Analysis at INO Yandex EdTech (Yandex Practicum) (03.2022 — 12.2022)
@@ -21,7 +21,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfulli
 
 ### 📫 Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ruslan_Gf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayfullin-ruslan-822412258/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayfullin-ruslan/)
 
 
 ### 💬 Skills 
