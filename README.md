@@ -14,9 +14,9 @@ I have been working in the field of analysis for more than  <span style="color:d
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/gayfullin-ruslan-822412258/?locale=en_US).<br>
 
 ### 🌱 Education 
-- [**Professional training course**]() in Data Analysis at INO Yandex EdTech (Yandex Practicum) (03.2022 — 12.2022)
+- [**Professional training course**](https://drive.google.com/file/d/1_fht7L792qUk5iuAFDTGAynHuwnrTrKl/view?usp=sharing) in Data Analysis at INO Yandex EdTech (Yandex Practicum) (03.2022 — 12.2022)
 - [**Professional training course**]() in Urban Economy at Moscow Engineering Physics Institute (MEPhI) (09.2019 - 10.2020)
-- [**Specialist Degree**]() in Russian Academy of National Economy and Public Administration (RANEPA) (09.2010 - 07.2015)
+- [**Specialist Degree**](https://drive.google.com/file/d/1IAxCBPbAiSqnrTUexBlIMCwNZ1JHS3uB/view?usp=sharing) in Russian Academy of National Economy and Public Administration (RANEPA) (09.2010 - 07.2015)
 
 
 ### 📫 Contact me 
